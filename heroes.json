@@ -1,0 +1,61 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "name": "Первый герой",
+      "description": "Первый герой в рейтинге!",
+      "element": "fire"
+    },
+    {
+      "id": 3,
+      "name": "Морской герой",
+      "description": "Как аквамен, но не из DC",
+      "element": "water"
+    },
+    {
+      "id": "9f7f0abc-4d4c-498f-aaf7-93f420c94be5",
+      "name": "asd",
+      "description": "asdasdasdaasdasdasdasdasdas",
+      "element": "fire"
+    },
+    {
+      "id": "b5461a1e-5bf1-49b4-a5da-d7893d231da7",
+      "name": "Никита",
+      "description": "Кодить",
+      "element": "fire"
+    },
+    {
+      "id": "55f4065a-94b5-49fa-a99d-1525d37118de",
+      "name": "asd",
+      "description": "asd",
+      "element": "water"
+    }
+  ],
+  "filters": [
+    {
+      "name": "all",
+      "label": "All",
+      "className": "btn-outline-dark"
+    },
+    {
+      "name": "fire",
+      "label": "Fire",
+      "className": "btn-danger"
+    },
+    {
+      "name": "water",
+      "label": "Water",
+      "className": "btn-primary"
+    },
+    {
+      "name": "wind",
+      "label": "Widn",
+      "className": "btn-success"
+    },
+    {
+      "name": "earth",
+      "label": "Earth",
+      "className": "btn-secondary"
+    }
+  ]
+}
